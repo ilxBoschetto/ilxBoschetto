@@ -12,7 +12,7 @@ I enjoy building modern, high-performance, and well-structured web applications.
 - **Tools & Others**: Git, Bootstrap
 
 ## 🚀 Projects
-📌 [laravel-vue-project] - [Repository](https://github.com/ilxBoschetto/laravel-vue-project) - First project that can create users and appointments
+📌 [laravel-vue-project] - [Repository](https://github.com/ilxBoschetto/laravel-vue-project) - Project where can create users and appointments
 <br>
 📌 [kan-ban_laravel_vue] - [Repository](https://github.com/ilxBoschetto/kan-ban_laravel_vue) - KanBan board project where you can create tasks and change statuses
 
