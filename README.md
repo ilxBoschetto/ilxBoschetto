@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Matteo!
 
-<!--
-**ilxBoschetto/ilxBoschetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer Junior
 
-Here are some ideas to get you started:
+I'm a full-stack developer junior with experience in Laravel, Vue.js, HTML, CSS, JavaScript, and PHP.
+I enjoy building modern, high-performance, and well-structured web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Frontend**: Vue.js, HTML, CSS, JavaScript  
+- **Backend**: PHP, Laravel  
+- **Database**: MySQL  
+- **Tools & Others**: Git, Bootstrap
+
+## 🚀 Projects
+📌 [laravel-vue-project]([repo-link](https://github.com/ilxBoschetto/laravel-vue-project)) - First project that can create users and appointments
+📌 [kan-ban_laravel_vue]([repo-link](https://github.com/ilxBoschetto/kan-ban_laravel_vue)) - KanBan board project where you can create tasks and change statuses
+
+## 📫 Get in Touch
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/matteo-boschetti-0a1868299/))  
+- 📧 Email: mboschetti03@gmail.com 
