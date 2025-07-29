@@ -5,11 +5,17 @@
 I'm a full-stack developer junior with experience in Laravel, Vue.js, HTML, CSS, JavaScript, and PHP.
 I enjoy building modern, high-performance, and well-structured web applications.
 
-## 🔧 Tech Stack
-- **Frontend**: Vue.js, HTML, CSS, JavaScript  
-- **Backend**: PHP, Laravel  
-- **Database**: MySQL  
+Most of the technologies I use were learned by working on **real-world projects**, while others — like **Flutter** and **Next.js** — I studied on my own through self-learning and side projects.
+
+## 🌐 Web
+- **Frontend**: Vue.js, Angular, HTML, CSS, JavaScript  
+- **Backend**: PHP, Laravel , C#, Next.js *(self-taught)*
+- **Database**: MySQL, MongoDB
 - **Tools & Others**: Git, Bootstrap
+
+## 📱 Mobile
+- **Frameworks**: Flutter *(self-taught)*
+- **Languages**: QML, C++
 
 ## 🚀 Projects
 📌 [laravel-vue-project] - [Repository](https://github.com/ilxBoschetto/laravel-vue-project) - Project where can create users and appointments
