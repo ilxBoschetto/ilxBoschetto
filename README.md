@@ -18,7 +18,7 @@ Most of the technologies I use were learned by working on **real-world projects*
 - **Languages**: QML, C++
 
 ## 🚀 Projects
-📌 [splash] - [Repository](https://github.com/ilxBoschetto/splash) - Flutetr application + server to save and find fountains saved by users
+📌 [splash] - [Repository](https://github.com/ilxBoschetto/splash) - Flutter application + server to save and find fountains saved by users
 <br>
 📌 [laravel-vue-project] - [Repository](https://github.com/ilxBoschetto/laravel-vue-project) - Project where can create users and appointments
 <br>
